@@ -35,7 +35,7 @@ My current research at APL integrates my broad training in acoustics, engineerin
 
 I focus on two fundamental aspects for achieving high confidence acoustic (sonar) sensing:
 
-1. sampling – what can we do to collect better information? and
-2. inference – how do we make reliable interpretation of echo information?
+* **Sampling** – what can we do to collect better information? and
+* **Inference** – how do we make reliable interpretation of echo information?
 
 Under these overarching themes, I am working to expand sonar sensing capability for marine ecosystem monitoring at large temporal and spatial scales, and use echolocating animals as biological models to inspire adaptive sampling strategies in an active acoustic context.
