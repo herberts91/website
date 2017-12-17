@@ -33,7 +33,7 @@ weight = 5
 
 My current research at APL integrates my broad training in acoustics, engineering, and biology toward the goal of developing better methods and instruments to monitor the rapidly-changing marine ecosystem.
 
-I focus on two fundamental aspects for achieving high confidence active acoustic (sonar) sensing:
+I focus on two fundamental aspects for achieving high confidence acoustic (sonar) sensing:
 
 1. sampling – what can we do to collect better information? and
 2. inference – how do we make reliable interpretation of echo information?

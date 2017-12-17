@@ -1,5 +1,5 @@
 +++
-title = The acoustic field on the forehead of echolocating Atlantic bottlenose dolphins (Tursiops truncatus)
+title = "The acoustic field on the forehead of echolocating Atlantic bottlenose dolphins (Tursiops truncatus)"
 date = "2010-03-01"
 draft = false
 
