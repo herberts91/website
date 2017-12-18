@@ -18,7 +18,7 @@ authors = ["**W-J Lee**", "B Falk", "C Chiu", "A Krishnan", "JA Arbour", "CF Mos
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*PLoS Biologcy*"
+publication = "*PLoS Biology*"
 publication_short = "*PLoS Bio.*"
 
 # Abstract and optional shortened version.
@@ -49,7 +49,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Web link", url = "http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2003148"}]
+url_custom = [{name = "Web link", url = "http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2003148"},{name = "Video: experimental trial", url = "https://www.youtube.com/watch?v=-ghJzEFcyXk"},{name = "Video: mouth close-up", url = "https://www.youtube.com/watch?v=YRFBO2Z1yKk"}]
 
 # Does the content use math formatting?
 math = true

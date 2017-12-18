@@ -222,6 +222,10 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//github.com/leewujung"
 
+  [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Wu-Jung_Lee"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the

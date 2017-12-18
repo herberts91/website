@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Journal of the Acoustical Society of America*"
-publication_short = "*JASA*"
+publication_short = "*J. Acoust. Soc. Am.*"
 
 # Abstract and optional shortened version.
 abstract = ""
