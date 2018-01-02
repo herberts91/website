@@ -49,7 +49,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Web link", url = "http://asa.scitation.org/doi/10.1121/1.4947423"},{name = "Video: moth echoes", url ="https://youtu.be/zAZYuEpFG2A"}]
+url_custom = [{name = "View at journal", url = "http://asa.scitation.org/doi/10.1121/1.4947423"},{name = "Video: moth echoes", url ="https://youtu.be/zAZYuEpFG2A"}]
 
 # Does the content use math formatting?
 math = true

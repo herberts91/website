@@ -48,7 +48,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Web link", url = "http://ieeexplore.ieee.org/document/6710210/"}]
+url_custom = [{name = "View at journal", url = "http://ieeexplore.ieee.org/document/6710210/"}]
 
 # Does the content use math formatting?
 math = true

@@ -49,7 +49,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Web link", url = "http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2003148"},{name = "Video: experimental trial", url = "https://www.youtube.com/watch?v=-ghJzEFcyXk"},{name = "Video: mouth close-up", url = "https://www.youtube.com/watch?v=YRFBO2Z1yKk"}]
+url_custom = [{name = "View at journal", url = "http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2003148"},{name = "Video: experimental trial", url = "https://www.youtube.com/watch?v=-ghJzEFcyXk"},{name = "Video: mouth close-up", url = "https://www.youtube.com/watch?v=YRFBO2Z1yKk"}]
 
 # Does the content use math formatting?
 math = true
