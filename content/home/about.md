@@ -22,10 +22,14 @@ weight = 5
   year = 2013
 
 [[education.courses]]
-  course = "BSc in Electrical Engineering & Life Sciences"
+  course = "BSc in Electrical Engineering"
   institution = "National Taiwan University"
   year = 2005
 
+[[education.courses]]
+  course = "BSc in Life Sciences"
+  institution = "National Taiwan University"
+  year = 2005
 
 +++
 
